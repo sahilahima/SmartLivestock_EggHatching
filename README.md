@@ -13,40 +13,49 @@ The poultry farming industry in Indonesia is rapidly growing, but egg hatching m
 
 - **Planning Stage**
 
-![Image](https://github.com/user-attachments/assets/a201427c-8f30-463f-899c-c598cce08acc)
+![image](https://github.com/user-attachments/assets/2eab7055-6788-4edd-ad50-159f5ac2e0bc)
+
 
 - **Blok Diagram**
 
-![Image](https://github.com/user-attachments/assets/9e944d14-d925-4277-a51c-d8b796d1fcc7)
+![image](https://github.com/user-attachments/assets/fa48b4df-30d2-4dfe-b0cf-e2e63597fd4e)
+
 
 # PROCESSING AND FINAL DOCUMENTATION
 - **All System Component**
 At this stage, all electronic components such as microcontrollers, sensors, actuators, and power supplies will be assembled according to the system that has been created.
 
-![Image](https://github.com/user-attachments/assets/e535c821-a8bf-4c3b-a793-53f5bfe00d60)
+![image](https://github.com/user-attachments/assets/3d7fc93f-d33d-482a-8431-0c944f119c5d)
+
 
 - **PCB Schematic**
 In the PCB design of this system, it will facilitate the arrangement and installation of cables from each component used on the microcontroller pins. The use of PCB is intended so that the signal and power cables from each component can be easily identified, making it easier to perform rechecks. The initial step for its creation is to visit the EasyEDA application to create a schematic diagram.
 
-![Image](https://github.com/user-attachments/assets/c670f2ea-dc8c-45b0-a77c-5f9535212b4d)
+![image](https://github.com/user-attachments/assets/1e5d8af3-dc41-423b-970e-be8b9eb36ecb)
 
-![Image](https://github.com/user-attachments/assets/0d102a99-05e6-4045-a54e-09438a695e99)
+![image](https://github.com/user-attachments/assets/6224bd35-952f-40db-b905-a8a49af4d95c)
 
-![Image](https://github.com/user-attachments/assets/655b4a50-f628-4336-a031-f11b160569ad)
+![image](https://github.com/user-attachments/assets/cd83c9e6-9971-42af-8dd2-09014f5bc0be)
+
 
 - **Results of Hardware Design and Development**
 After designing the component circuit, setting up the electrical system, and designing the PCB for this device, the next step is to carry out the device assembly process. This device will be assembled and placed in a prototype of an automatic incubator designed based on the actual incubator model.
 
-![Image](https://github.com/user-attachments/assets/00c1076e-b08d-41cd-8d0e-b98a005d9a57)
+DISPLAY
+![image](https://github.com/user-attachments/assets/d48194de-3d8e-4e2b-976f-b472502212dc)
+![image](https://github.com/user-attachments/assets/7b36348e-7e81-44d6-8bb9-77c77677d4f1)
 
-![Image](https://github.com/user-attachments/assets/b3b79742-85fd-4eb4-bfeb-5d587d889d3b)
+![image](https://github.com/user-attachments/assets/49e1498e-9a1f-4858-ae59-e7ba401678b0)
 
-![Image](https://github.com/user-attachments/assets/4e2c101e-bbc3-464f-a089-c720f184a97c)
+![image](https://github.com/user-attachments/assets/77f04004-ecc4-4118-8e9e-208415f636e6)
+
 
 - **system-wide detection flow**
 
-![Image](https://github.com/user-attachments/assets/c99c6a9f-732c-405a-a449-ec262acf31d1)
+![image](https://github.com/user-attachments/assets/7b02b1a4-8a53-48b0-833a-dde8c3b2aa07)
+
 
 - **Final Project**
 
-![Image](https://github.com/user-attachments/assets/c8ecb3a4-a21e-4c55-82f5-064c42994203)
+![image](https://github.com/user-attachments/assets/329a1db5-2ef6-409c-9da2-8bf43971663c)
+
