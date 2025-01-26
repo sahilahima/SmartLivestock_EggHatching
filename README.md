@@ -8,7 +8,8 @@ The poultry farming industry in Indonesia is rapidly growing, but egg hatching m
 # PLANNING DOCUMENTATION
 - **Research Phase**
 
-![Image](https://github.com/user-attachments/assets/09e45e5a-7974-4d0a-a812-0e43b66cc383)
+![image](https://github.com/user-attachments/assets/7ea00ecb-8700-42ec-9c48-58eecd9ec813)
+
 
 - **Planning Stage**
 
