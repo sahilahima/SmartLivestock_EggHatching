@@ -42,11 +42,16 @@ In the PCB design of this system, it will facilitate the arrangement and install
 After designing the component circuit, setting up the electrical system, and designing the PCB for this device, the next step is to carry out the device assembly process. This device will be assembled and placed in a prototype of an automatic incubator designed based on the actual incubator model.
 
 DISPLAY
+
+
 ![image](https://github.com/user-attachments/assets/d48194de-3d8e-4e2b-976f-b472502212dc)
 ![image](https://github.com/user-attachments/assets/7b36348e-7e81-44d6-8bb9-77c77677d4f1)
 
+IN BOX COMPONENTS
+
 ![image](https://github.com/user-attachments/assets/49e1498e-9a1f-4858-ae59-e7ba401678b0)
 
+OUT OF THE BOX
 ![image](https://github.com/user-attachments/assets/77f04004-ecc4-4118-8e9e-208415f636e6)
 
 
